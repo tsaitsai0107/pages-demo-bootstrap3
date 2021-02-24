@@ -176,7 +176,7 @@ nav a {
 /* .header */
 .header {
   padding: 200px 0;
-  background-image: url("http://massive.markup.themebucket.net/assets/img/about/sb-1.jpg");
+  background-image: url("./image/header-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0;
@@ -221,7 +221,7 @@ a:focus {
 
 /* other services */
 .other-services {
-  background-image: url(http://massive.markup.themebucket.net/assets/img/parallax/5.jpg);
+  background-image: url(./image/other-service.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0;
